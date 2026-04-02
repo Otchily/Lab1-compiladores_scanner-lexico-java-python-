@@ -334,19 +334,6 @@ Ao executar os programas, o projeto deve produzir:
 
 ---
 
-## Status da entrega
-
-- [x] Estrutura do projeto organizada
-- [x] Script Bash incluído
-- [x] Scanner em Python incluído
-- [x] Scanner em Java incluído
-- [x] Testes unitários incluídos
-- [x] Relatório em Markdown incluído
-- [x] Arquivos de input e output incluídos
-- [ ] Prints reais adicionados na pasta `imagens/`
-
----
-
 ## Autores
 
 **Joao Alfredo**  
