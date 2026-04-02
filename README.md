@@ -304,7 +304,6 @@ Ao executar os programas, o projeto deve produzir:
 - [Regex101](https://regex101.com/)
 - [JFLAP](https://www.jflap.org/tutorial/)
 - [FAT - Finite Automata Tool](http://cl-informatik.uibk.ac.at/software/fat/)
-
 ---
 
 ## Referências
