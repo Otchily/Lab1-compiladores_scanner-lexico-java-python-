@@ -272,20 +272,12 @@ mvn test
 ---
 
 ## Evidências visuais
-
-A pasta `imagens/` foi reservada para os prints solicitados no enunciado.  
-Antes da entrega final no GitHub, devem ser adicionadas as capturas reais das atividades, como:
-
 - execução no terminal;
 - regex funcionando no Regexr e Regex101;
 - autômatos no JFLAP;
 - testes ou execuções em Python e Java;
 - tokenizer da OpenAI;
 - captura do FAT.
-
-Arquivo de apoio:
-- `imagens/LEIA-ME.txt`
-
 ---
 
 ## Resultados esperados
@@ -297,15 +289,6 @@ Ao executar os programas, o projeto deve produzir:
 - tokenização de texto em português;
 - listas de tokens em Python e Java;
 - validação automática por testes unitários.
-
----
-
-## Observações importantes
-
-- O projeto está estruturado para facilitar a organização da entrega no GitHub.
-- Os códigos foram mantidos de forma didática, para evidenciar a relação entre teoria e implementação.
-- A classificação gramatical de palavras do português foi feita de forma **simplificada**, com fins acadêmicos e experimentais.
-- Para a entrega final, é recomendável revisar o relatório e complementar a pasta `imagens/` com as evidências produzidas durante a execução real do laboratório.
 
 ---
 
