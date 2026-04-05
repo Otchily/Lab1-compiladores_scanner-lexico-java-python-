@@ -318,5 +318,5 @@ Ao executar os programas, o projeto deve produzir:
 
 ## Autores
 
+**Cesar Jose Santana**
 **Joao Alfredo**  
-**Leonardo Souza Silva**
