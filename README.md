@@ -8,7 +8,7 @@
 ![Tests](https://img.shields.io/badge/tests-Python%20%2B%20JUnit-success?style=for-the-badge)
 
 > Projeto desenvolvido para a disciplina de **Compiladores** da **PUC-SP**  
-> **Integrantes:** **Joao Alfredo** / **Leonardo Souza Silva**
+> **Integrantes:** **Joao Alfredo** / **Cesar Jose Santana**
 
 ---
 
